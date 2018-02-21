@@ -1,0 +1,10 @@
+C:\Users\aangulu\Desktop\c# mpesa libraries\bin\Debug\netcoreapp2.0\c# mpesa libraries.deps.json
+C:\Users\aangulu\Desktop\c# mpesa libraries\bin\Debug\netcoreapp2.0\c# mpesa libraries.runtimeconfig.json
+C:\Users\aangulu\Desktop\c# mpesa libraries\bin\Debug\netcoreapp2.0\c# mpesa libraries.runtimeconfig.dev.json
+C:\Users\aangulu\Desktop\c# mpesa libraries\bin\Debug\netcoreapp2.0\c# mpesa libraries.dll
+C:\Users\aangulu\Desktop\c# mpesa libraries\bin\Debug\netcoreapp2.0\c# mpesa libraries.pdb
+C:\Users\aangulu\Desktop\c# mpesa libraries\obj\Debug\netcoreapp2.0\c# mpesa libraries.csproj.CoreCompileInputs.cache
+C:\Users\aangulu\Desktop\c# mpesa libraries\obj\Debug\netcoreapp2.0\c# mpesa libraries.AssemblyInfoInputs.cache
+C:\Users\aangulu\Desktop\c# mpesa libraries\obj\Debug\netcoreapp2.0\c# mpesa libraries.AssemblyInfo.cs
+C:\Users\aangulu\Desktop\c# mpesa libraries\obj\Debug\netcoreapp2.0\c# mpesa libraries.dll
+C:\Users\aangulu\Desktop\c# mpesa libraries\obj\Debug\netcoreapp2.0\c# mpesa libraries.pdb
